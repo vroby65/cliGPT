@@ -1,0 +1,2 @@
+# cliGPT
+chatGPT in console
